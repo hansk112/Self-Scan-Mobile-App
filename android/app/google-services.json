@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1012081825678",
+    "project_id": "self-scan-a40e2",
+    "storage_bucket": "self-scan-a40e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012081825678:android:4ae3bf70eb6f732d8876df",
+        "android_client_info": {
+          "package_name": "com.gleninnes.storeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLKgGx89zX8f44NbHfRCFwQ5iGETAEuR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
