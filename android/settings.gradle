@@ -3,10 +3,8 @@ pluginManagement {
         google()
         mavenCentral()
         gradlePluginPortal()
-        // Add Flutter SDK as a plugin source
-     
     }
-    includeBuild("${System.getenv("FLUTTER_HOME") ?: "../flutter"}")
+    includeBuild("/home/hans/snap/flutter/common/flutter/packages/flutter_tools/gradle")
 }
 
 include(":app")
